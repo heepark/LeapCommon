@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Windchill/srclib/tool/Annotations.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/capa.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/esi.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/mpml.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/nc.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/pdml.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/pjl.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/qms.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/reql.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/rialto.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/sisipc.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/suma.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/udi.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/wnc.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/lib/wps.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/AjaxMultiselect.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/CATKit.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/CognosTools.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/CoreInstaller.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/DelegateMap.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/FederationTools.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/Gantt.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/InfoEngineQuickLook.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/InfoEngineTags.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/InfoEngineTasks.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/JWhich.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/ObjectInfoWebject.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/ProjectManagement.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/QueryTreeFlatWebject.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/TUnit.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/TaskDelegateInstaller.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/TaskletUtilities.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/auditWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/capaWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/cemWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/designcontrolWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/doccontrolWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/dpimplWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/dpinfraWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/ie3rdpartylibs.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/ieWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/install.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/jmxcoreWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/jviews-chart-all.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/jviews-framework-all.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/jviews-gantt-all.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/mksapi.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/mpmlWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/mylyn-integration.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/ncWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/odataWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/oslcWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/pdmlWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/pjlWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/prowtWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/ptlcWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/qmsWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/regmstrWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/reqlWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/restWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/rialtoWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/sisWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/sisipcWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/sumaWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/tibjms.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/udiWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/vizadaptersWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/wc3rdpartylibs.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/wex-kernel.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/wiiWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/wncWeb.jar"/>
+	<classpathentry kind="lib" path="D:/Windchill/codebase/WEB-INF/lib/wpsWeb.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
