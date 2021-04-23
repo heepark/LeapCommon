@@ -10,14 +10,14 @@ import java.util.zip.ZipInputStream;
 import org.apache.commons.io.FilenameUtils;
 import org.apache.log4j.Logger;
 
-import wt.log4j.LogR;
+import com.leap.properties.PropertyHandler;
+ 
 
 /**
  * @author LEAP
  */
 public class UnzipFiles {
-	private static Logger logger = LogR.getLogger(UnzipFiles.class.getName());
-
+	private static Logger logger = Logger.getLogger(UnzipFiles.class.getName());
 	public static void main(String[] args) {
 		String zipFilePath = "C:/test/Zip samples/tmp.zip";
 		File zipFile = new File(zipFilePath);
